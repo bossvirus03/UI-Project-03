@@ -623,7 +623,7 @@ body{
 
 .footer__row{
     display: grid;
-    grid-template-columns: 336px 134px 134px 336px;
+    grid-template-columns: 2fr 1fr 1fr 2fr;
     gap: 78px;
 }
 .footer__intro--desc{
